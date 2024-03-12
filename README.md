@@ -33,5 +33,3 @@ Read the position and character to replace from input.
 Call the 'mutate_string' function with the original string, position, and character.
 Print the modified string.
 ```
-
-Question-4 ()
