@@ -1,35 +1,37 @@
-1. The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students.
-Print the average of the marks array for the student name provided, showing 2 places after the decimal.
+## Python Assignment
 
-Example:
-marks key: value pairs are
-‘alpha’:[20, 30, 40]
-‘beta’:[30, 50, 70]
-query_name = ‘beta’
+Question-1 (Finding the Percentage)
+```
+Import the logging module for logging purposes.
+Define the findPercentage function to calculate the average marks for a given student.
+Configure logging to display only the message.
+Read the number of students' records.
+Initialize a dictionary to store student names and their marks.
+Loop through each student's record and store their name and marks in the dictionary.
+Read the name of the student to query.
+Get the marks of the queried student.
+Calculate the percentage.
+Log the percentage with two decimal places.
+Check if the script is executed as the main program and call the findPercentage function.
+```
 
-The query_name is ‘beta’. beta’s average score is (30 + 50 + 70)/3 = 50.0.
+Question-2 (Find the Runner-Up Score!)
+```
+Define the runnerUp function to find the second largest element in a set.
+Import the runnerUp function from the util module.
+Read the number of elements in the array.
+Read the array elements and map them to integers.
+Call the runnerUp function with the set of array elements to find the second largest element.
+```
 
-Input Format:
-The first line contains the integer , the number of students' records. The next  lines contain the names and marks obtained by a student, each value separated by a space.
-The final line contains query_name, the name of a student to query.
+Question-3 (String_Mutation)
+```
+Define the 'mutate_string' function to replace a character at a given position in a string.
+Check if the script is executed as the main program.
+Read the original string from input.
+Read the position and character to replace from input.
+Call the 'mutate_string' function with the original string, position, and character.
+Print the modified string.
+```
 
-Constraints:
-2 ≤ n ≤ 10
-0 ≤ marks[i] ≤ 100
-length of the marks array = 3
-
-Output Format:
-Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
-
-2. Given the participants’ score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores.
-Store them in a list and find the score of the runner-up.
-
-Input Format
-
-The first line contains n. The second line contains an array A[] of n integers each separated by a space.
-
-Constraints
-2 ≤  n ≤  10
--100 ≤  A[i] ≤ 100
-Output Format
-Print the runner-up score.
+Question-4 ()
