@@ -33,3 +33,16 @@ Read the position and character to replace from input.
 Call the 'mutate_string' function with the original string, position, and character.
 Print the modified string.
 ```
+Question-4 (Merge The Tools)
+```
+Define the merge_the_tools function to split a string into k-sized substrings and remove duplicate characters.
+Initialize an empty string to store the result.
+Iterate over the string in k-sized steps.
+Extract a substring of length k.
+Initialize an empty list to store unique characters.
+Iterate over characters in the substring.
+Add character to the list if not already present.
+Append unique characters to the result string.
+Add newline character to separate each substring.
+Log the result string.
+```
