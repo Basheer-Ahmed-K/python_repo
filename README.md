@@ -88,3 +88,18 @@ Extract marks of each student and store in a list.
 Calculate the average marks and log it.
 Return the average marks.
 ```
+
+Question-9 (Time Delta)
+```
+Import the logging module for logging purposes.
+Define the time_delta function to calculate the time difference between two timestamps.
+Initialize an empty string to store the result.
+Configure logging to display only the message.
+Import the datetime module for working with date and time.
+Parse the input timestamps into datetime objects using the strptime method.
+Calculate the absolute difference in seconds between the timestamps.
+Convert the difference to an integer and store it as a string.
+Log the difference in seconds.
+Read the number of test cases.
+Iterate through each test case, reading the two timestamps, and calculating the time difference.
+```
