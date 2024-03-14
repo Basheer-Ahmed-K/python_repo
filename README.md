@@ -133,3 +133,13 @@ User prompts to input the size of the square matrix and its elements.
 Calculation of the determinant using numpy.linalg.det().
 Printing the determinant rounded to 2 decimal places.
 ```
+
+Question-13 (Mean, Var and Std)
+```
+A function calculate_mean_variance_std() to encapsulate the code logic.
+User prompts to input the number of rows and columns and the elements of each row.
+Creation of a 2D NumPy array from the user input.
+Calculation of mean along each row, variance along each column, and standard deviation of the whole array.
+Conversion of the calculated statistics to strings.
+Logging of the calculated statistics.
+```
