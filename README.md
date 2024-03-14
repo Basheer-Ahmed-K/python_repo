@@ -125,3 +125,11 @@ Convert the list of rows into a numpy array using numpy.array().
 Find the minimum value in each row of the array using numpy.min(arr, axis=1) (along the rows), then find the maximum of those minimum values using numpy.max().
 Print and return the maximum of the minimum values.
 ```
+
+Question-12 (Linear Algebra)
+```
+A function calculate_determinant() to encapsulate the code logic.
+User prompts to input the size of the square matrix and its elements.
+Calculation of the determinant using numpy.linalg.det().
+Printing the determinant rounded to 2 decimal places.
+```
