@@ -103,3 +103,10 @@ Log the difference in seconds.
 Read the number of test cases.
 Iterate through each test case, reading the two timestamps, and calculating the time difference.
 ```
+
+Question-10 (floor ceil rint)
+```
+Define the FloorCeilRint function to perform floor, ceil, and rint operations on the input array.
+Import the numpy module for array operations.
+Call the FloorCeilRint function with the input array, performing floor, ceil, and rint operations.
+```
