@@ -77,3 +77,14 @@ Find the day of the week for the given date using the calendar.weekday function.
 Define a list of days of the week.
 Log and return the day of the week.
 ```
+
+Question-8 (Collections.namedtuple)
+```
+Import the namedtuple class from the collections module to define a custom tuple type.
+Define the printAverage function to calculate and print the average marks of students.
+Read the total number of students.
+Define the namedtuple structure for student information.
+Extract marks of each student and store in a list.
+Calculate the average marks and log it.
+Return the average marks.
+```
