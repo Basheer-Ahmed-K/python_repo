@@ -47,3 +47,15 @@ Append unique characters to the result string.
 Add newline character to separate each substring.
 Log the result string.
 ```
+
+Question-5 (Text Alignment)
+```
+Define the textAlignment function to create a text-based pattern with given thickness.
+Initialize an empty string to store the result.
+Create the top cone of the pattern.
+Create the top pillars of the pattern.
+Create the middle belt of the pattern.
+Create the bottom pillars of the pattern.
+Create the bottom cone of the pattern.
+Return the result string.
+```
