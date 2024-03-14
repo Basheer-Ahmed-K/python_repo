@@ -68,3 +68,12 @@ Iterate through numbers from 1 to the given number+1.
 Format and print the numbers in decimal, octal, hexadecimal, and binary formats using string formatting.
 Read the ind function.
 ```
+
+Question-7 (Calendar Module)
+```
+Import the calendar module for date-related functionalities.
+Define the printDay function to print the day of the week for a given date.
+Find the day of the week for the given date using the calendar.weekday function.
+Define a list of days of the week.
+Log and return the day of the week.
+```
