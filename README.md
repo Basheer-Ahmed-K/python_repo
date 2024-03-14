@@ -59,3 +59,12 @@ Create the bottom pillars of the pattern.
 Create the bottom cone of the pattern.
 Return the result string.
 ```
+
+Question-6 (String Formatting)
+```
+Define the print_formatted function to print formatted numbers in decimal, octal, hexadecimal, and binary formats.
+Calculate the width required for formatting based on the number of bits needed to represent the given number in binary.
+Iterate through numbers from 1 to the given number+1.
+Format and print the numbers in decimal, octal, hexadecimal, and binary formats using string formatting.
+Read the ind function.
+```
