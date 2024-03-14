@@ -143,3 +143,12 @@ Calculation of mean along each row, variance along each column, and standard dev
 Conversion of the calculated statistics to strings.
 Logging of the calculated statistics.
 ```
+
+Question-14 (No Idea!)
+```
+The calculate_happiness() function encapsulates the logic for calculating happiness.
+User inputs are read for n, m, the array arr, and sets A and B.
+The happiness score is calculated based on the elements of arr belonging to sets A and B.
+The happiness score is logged using the loggigng.info() function.
+The function returns the happiness score.
+```
