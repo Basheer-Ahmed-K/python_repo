@@ -110,3 +110,18 @@ Define the FloorCeilRint function to perform floor, ceil, and rint operations on
 Import the numpy module for array operations.
 Call the FloorCeilRint function with the input array, performing floor, ceil, and rint operations.
 ```
+
+Question-11 (Min Max)
+```
+import numpy: Import the numpy library for numerical operations.
+Read the dimensions of the array (N rows and M columns) from the user.
+Create an empty list rows to store the rows of integers.
+Iterate over each row:
+Read a row of integers from the user.
+Split the input string into individual integers.
+Convert the integers to integers (from strings).
+Add each row to the list of rows.
+Convert the list of rows into a numpy array using numpy.array().
+Find the minimum value in each row of the array using numpy.min(arr, axis=1) (along the rows), then find the maximum of those minimum values using numpy.max().
+Print and return the maximum of the minimum values.
+```
