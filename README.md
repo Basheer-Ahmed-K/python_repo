@@ -171,3 +171,14 @@ For each test case, the elements are reordered according to the specified criter
 The reordering is checked, and the result is logged using the logging.info() function.
 The function returns the answer as a string.
 ```
+
+Question-17 (Iterables Iterators)
+```
+The iterables_iterators() function encapsulates the logic for calculating the probability.
+User input is read for the value of N, the elements of the list N_list, and the value of K.
+All combinations of length K from the list N_list are generated using the combinations function from the itertools module.
+The number of combinations containing the element 'a' is counted.
+The probability of selecting a combination containing 'a' is calculated.
+The calculated probability is logged using the logging.info() function.
+The function returns the probability rounded to 6 decimal places.
+```
