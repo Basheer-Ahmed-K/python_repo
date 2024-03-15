@@ -182,3 +182,13 @@ The probability of selecting a combination containing 'a' is calculated.
 The calculated probability is logged using the logging.info() function.
 The function returns the probability rounded to 6 decimal places.
 ```
+
+Question-18 (Email Validation using Filter)
+```
+The valid_emails() function encapsulates the logic for validating and filtering emails.
+The is_valid_email() function checks if an email is valid using a regular expression pattern.
+The filter_emails() function filters out valid emails from a list of emails.
+User input is read for the number of emails (n) and the emails themselves.
+The valid_emails() function calls filter_emails() to filter the valid emails and sorts them.
+The filtered emails are logged using the logging.info() function.
+```
