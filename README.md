@@ -152,3 +152,14 @@ The happiness score is calculated based on the elements of arr belonging to sets
 The happiness score is logged using the loggigng.info() function.
 The function returns the happiness score.
 ```
+
+Question-15 (Word Order)
+```
+The word_order() function encapsulates the logic for counting word occurrences.
+User input is read for the number of words (n) and the words themselves, which are stored in a list.
+The Counter class from the collections module is used to count the occurrences of each word in the list.
+The number of unique words and the counts of each word are appended to a list called ans.
+The ans list is logged using the logging.info() function.
+The word_order() function returns the ans list.
+```
+
