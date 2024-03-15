@@ -163,3 +163,11 @@ The ans list is logged using the logging.info() function.
 The word_order() function returns the ans list.
 ```
 
+Question-16 (Pilling Up)
+```
+The pilling_up() function encapsulates the logic for reordering elements.
+User input is read for the number of test cases (t), the number of elements in each test case (n), and the elements themselves.
+For each test case, the elements are reordered according to the specified criteria.
+The reordering is checked, and the result is logged using the logging.info() function.
+The function returns the answer as a string.
+```
